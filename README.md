@@ -4,7 +4,7 @@ Database: MongoDB
 
 Steps to run on your pc:
 
-Step 1: Clone this directory using command "git clone https://github.com/ronakrajput29/Doogie.git"
+Step 1: Clone this directory using command "git clone https:/its-me-aadi/github.com//Doogie.git"
 
 Step 2: cd into the project folder using "cd DOOGIE"
 
